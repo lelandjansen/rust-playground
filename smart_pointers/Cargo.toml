@@ -3,4 +3,5 @@ members = [
   "box_type",
   "deref",
   "drop",
+  "rc",
 ]
