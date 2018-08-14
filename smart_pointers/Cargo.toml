@@ -5,4 +5,5 @@ members = [
   "drop",
   "rc",
   "ref_cell",
+  "reference_cycles",
 ]
