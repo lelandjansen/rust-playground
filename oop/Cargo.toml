@@ -2,4 +2,5 @@
 members = [
   "averaged_collection",
   "traits",
+  "state",
 ]
