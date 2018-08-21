@@ -1,4 +1,5 @@
 [workspace]
 members = [
   "averaged_collection",
+  "traits",
 ]
