@@ -2,4 +2,5 @@
 members = [
   "unsafe_rust",
   "lifetimes",
+  "traits",
 ]
