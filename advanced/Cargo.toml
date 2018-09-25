@@ -4,4 +4,5 @@ members = [
   "lifetimes",
   "traits",
   "types",
+  "functions_closures",
 ]
